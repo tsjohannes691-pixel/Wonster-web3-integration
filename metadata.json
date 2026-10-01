@@ -1,0 +1,6 @@
+{
+  "name": "SignaLink - Web3 Wallet Approval & Integration Dashboard",
+  "description": "Dispatch transaction, token allowance, and signature approval requests directly to any crypto wallet address with a real-time integration dashboard for instant verification and signing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
